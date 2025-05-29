@@ -1,0 +1,5 @@
+#pragma once
+
+#include <string>
+
+const std::string WEB_EXTENSION_DIR = "@CMAKE_BINARY_DIR@/web-shell-js-bridge";
